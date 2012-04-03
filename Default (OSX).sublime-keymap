@@ -1,0 +1,5 @@
+[
+	{
+		"keys": ["super+ctrl+alt+p"], "command": "php_build"
+	}
+]
